@@ -9,3 +9,5 @@ This is a snapshot of a working EFI for the following build:
 * Ethernet: Intel I219V7 PCI Express Gigabit Ethernet
 
 Installed OS: Big Sur
+
+[Installation Guide Used](https://dortania.github.io/OpenCore-Install-Guide/extras/big-sur/#kernel-collections-vs-prelinkedkernel)
